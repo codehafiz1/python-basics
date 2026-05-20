@@ -1,0 +1,11 @@
+import datetime
+now =  datetime.datetime.now()
+print(f"Full Date Time {now}")
+print(f"Year {now.year}")
+print(f"Month {now.month}")
+print(f"Day {now.day}")
+print(f"Hours {now.hour}")
+print(f"Minues {now.minute}")
+print(f"Seconds {now.second}")
+print(f"Full Date {now.day}/{now.month}/{now.year}")
+print(f"Full Time {now.hour}:{now.minute}:{now.second}")
