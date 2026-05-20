@@ -7,7 +7,7 @@
 
 ## 📅 Progress
 - ✅ Day 1 - Variables, Data Types, Loops, Functions
-- ⏳ Day 2 - APIs and Libraries
+- ✅ Day 2 - APIs, JSON, Built Live Game Giveaway Tracker!
 - ⏳ Day 3 - First Automation Project
 
 ## 🛠️ Tools I Use
