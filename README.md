@@ -1,7 +1,7 @@
 # 🐍 Python Basics - My Coding Journey
 
 ## 👋 About Me
-- Name: Shehryar
+- Name: Hafiz Syed Shehryar Ali
 - Goal: AI Automation Developer
 - Started: May 2026
 
