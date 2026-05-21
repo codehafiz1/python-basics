@@ -8,7 +8,9 @@
 ## 📅 Progress
 - ✅ Day 1 - Variables, Data Types, Loops, Functions
 - ✅ Day 2 - APIs, JSON, Random, DateTime, OS Libraries, Game Giveaway Tracker!
-- ⏳ Day 3 - First Automation Project
+- ✅ Day 3 - Built Morning Report 
+   Generator (Weather + Joke + 
+   Game Giveaway + File Saving!)
 
 ## 🛠️ Tools I Use
 - Python
