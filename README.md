@@ -10,7 +10,8 @@
 - ✅ Day 2 - APIs, JSON, Random, DateTime, OS Libraries, Game Giveaway Tracker!
 - ✅ Day 3 - Morning Report Generator (Weather + Joke + Giveaway)
 - ✅ Day 4 - Contact Book (Add, View, Search, Delete, JSON saving)
-- ⏳ Day 5 - Coming soon!
+- ✅ Day 5 - Tech News Digest (NewsAPI + .env Security + File Saving)
+- ⏳ Day 6 - Coming Soon!
 
 ## 🛠️ Tools I Use
 - Python
