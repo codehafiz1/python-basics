@@ -10,7 +10,8 @@
 - ✅ Day 2 - APIs, JSON, Random, DateTime, OS Libraries, Game Giveaway Tracker!
 - ✅ Day 3 - Morning Report Generator (Weather + Joke + Giveaway)
 - ✅ Day 4 - Contact Book + News Digest Bonus! 🔥
-- ✅ Day 5 - Coming today!
+- ✅ Day 5 - CodeHafiz Discord Bot
+   (!hello, !weather, !news, !game)
 ## 🛠️ Tools I Use
 - Python
 - VS Code
