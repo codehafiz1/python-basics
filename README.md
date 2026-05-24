@@ -12,6 +12,10 @@
 - ✅ Day 4 - Contact Book + News Digest Bonus! 🔥
 - ✅ Day 5 - CodeHafiz Discord Bot
    (!hello, !weather, !news, !game)
+- ✅ Day 6 - AI Powered CodeHafiz Discord Bot
+   (!ask, !joke, !advice, !translate, 
+    !calculate, !quiz, !weather, 
+    !news, !game)
 ## 🛠️ Tools I Use
 - Python
 - VS Code
