@@ -16,6 +16,8 @@
    (!ask, !joke, !advice, !translate, 
     !calculate, !quiz, !weather, 
     !news, !game)
+  
+🏆 Milestone: 10 Projects Completed!
 ## 🛠️ Tools I Use
 - Python
 - VS Code
