@@ -18,6 +18,9 @@
     !news, !game)
   
 🏆 Milestone: 10 Projects Completed!
+
+- ✅ Day 7 - Web Scraping
+   (Single page + Multi page scraper!)
 ## 🛠️ Tools I Use
 - Python
 - VS Code
